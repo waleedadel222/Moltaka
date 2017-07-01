@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    >
+    
+    <TextView
+        android:id="@+id/txtLabel"
+         android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:textSize="16dp"
+        android:padding="15dp"
+        android:text="Communities View"/>
+    
+
+
+</ScrollView>
+<!-- From: file:/C:/Users/waleed/AndroidStudioProjects/Moltaka1/app/src/main/res/layout/fragment_instruction.xml -->

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android.png",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\president.png",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\president.png"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple.png",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vanamo.png",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\vanamo.png"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mu.jpg",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\mu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dell.png",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\dell.png"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chrome.png",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\chrome.png"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ubuntu.png",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\ubuntu.png"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counter_bg.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\waleed\\AndroidStudioProjects\\Moltaka1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    }
+]

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/job_name"
+        android:textStyle="bold"
+        android:textSize="13dp"
+        android:padding="2dp"
+        android:textColor="#ffffffff"
+        android:background="#9f08479d"
+        android:layout_margin="5dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <!-- Company Name-->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView5"
+            android:text=" Company  :   "
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:background="#9f08479d"
+            android:padding="2dp"
+            android:layout_marginRight="2.5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_below="@+id/job_name"
+            android:layout_alignLeft="@+id/job_name"
+            android:layout_alignStart="@+id/job_name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/company_name"
+            android:padding="3dp"
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:background="#bdfcf6fc"
+            android:text="Medium Text"
+            android:layout_alignTop="@+id/textView5"
+            android:layout_alignRight="@+id/job_name"
+            android:layout_alignEnd="@+id/job_name"
+            android:layout_toRightOf="@+id/textView5"
+            />
+
+
+    <!-- Contacts -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="  Contacts :"
+        android:id="@+id/textView7"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:background="#9f08479d"
+        android:padding="2dp"
+        android:layout_alignRight="@+id/textView5"
+        android:layout_alignEnd="@+id/textView5"
+        android:layout_marginRight="2.5dp"
+        android:layout_marginBottom="2.5dp"
+        android:layout_below="@+id/textView5"
+        android:layout_alignLeft="@+id/textView5"
+        android:layout_alignStart="@+id/textView5" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/contacts"
+        android:padding="3dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:background="#bdfcf6fc"
+        android:layout_alignLeft="@+id/company_name"
+        android:layout_alignStart="@+id/company_name"
+        android:layout_alignRight="@+id/company_name"
+        android:layout_alignTop="@+id/textView7" />
+
+    <!--  Job Description-->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Description: "
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:background="#9f08479d"
+        android:padding="3dp"
+        android:id="@+id/textView6"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/textView7"
+        android:layout_alignLeft="@+id/textView7"
+        android:layout_alignStart="@+id/textView7"
+        android:layout_alignRight="@+id/textView7"
+        android:layout_alignEnd="@+id/textView7" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/description"
+        android:padding="3dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:background="#bdfcf6fc"
+        android:layout_alignTop="@+id/textView6"
+        android:layout_alignRight="@+id/company_name"
+        android:layout_alignLeft="@+id/company_name"
+        android:layout_alignStart="@+id/company_name" />
+
+
+</RelativeLayout><!-- From: file:/C:/Users/waleed/AndroidStudioProjects/Moltaka1/app/src/main/res/layout/adv_row.xml -->

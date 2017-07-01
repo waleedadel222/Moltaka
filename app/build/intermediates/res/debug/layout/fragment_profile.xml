@@ -1,0 +1,275 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.university.moltaka.Fragments.ProfileFragment"
+    android:background="#96d1d4d4">
+
+
+    <!-- Names -->
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="   Name   : "
+         android:id="@+id/name_label"
+         android:textSize="12dp"
+         android:textStyle="bold"
+         android:textColor="#ffffffff"
+         android:background="#9f08479d"
+         android:padding="3dp"
+         android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/name_tv"
+        android:textColor="@color/dark_gray"
+        android:padding="3dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:background="#bdfcf6fc"
+        android:layout_marginLeft="5dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/name_label"
+        android:layout_toEndOf="@+id/name_label"
+        android:layout_alignTop="@+id/name_label" />
+
+    <!-- Faculty -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  Faculty : "
+        android:id="@+id/faculty_label"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:background="#9f08479d"
+        android:padding="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_below="@+id/name_label"
+        android:layout_alignLeft="@+id/name_label"
+        android:layout_alignStart="@+id/name_label"
+        android:layout_alignRight="@+id/name_label"
+        android:layout_alignEnd="@+id/name_label" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/faculty_tv"
+        android:textColor="@color/dark_gray"
+        android:padding="3dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:background="#bdfcf6fc"
+        android:layout_marginBottom="5dp"
+        android:layout_alignRight="@+id/name_tv"
+        android:layout_alignEnd="@+id/name_tv"
+        android:layout_alignTop="@+id/faculty_label"
+        android:layout_alignLeft="@+id/name_tv"
+        android:layout_alignStart="@+id/name_tv" />
+
+    <!-- graduation year -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Graduation Year  : "
+        android:id="@+id/graduation_label"
+        android:textSize="10dp"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:background="#9f08479d"
+        android:padding="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_below="@+id/faculty_label"
+        android:layout_alignLeft="@+id/faculty_label"
+        android:layout_alignStart="@+id/faculty_label"
+        android:layout_alignRight="@+id/faculty_label"
+        android:layout_alignEnd="@+id/faculty_label" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/graduation_tv"
+        android:textColor="@color/dark_gray"
+        android:padding="3dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:background="#bdfcf6fc"
+        android:layout_marginTop="5dp"
+        android:layout_alignBottom="@+id/graduation_label"
+        android:layout_alignTop="@+id/graduation_label"
+        android:layout_alignLeft="@+id/faculty_tv"
+        android:layout_alignStart="@+id/faculty_tv"
+        android:layout_alignRight="@+id/faculty_tv"
+        android:layout_alignEnd="@+id/faculty_tv" />
+
+    <!-- Languages -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Languages : "
+        android:id="@+id/lang_label"
+        android:textSize="10dp"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:background="#9f08479d"
+        android:padding="3dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/mobile_label"
+        android:layout_alignLeft="@+id/mobile_label"
+        android:layout_alignStart="@+id/mobile_label" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lang_tv"
+        android:clickable="false"
+        android:textColor="@color/dark_gray"
+        android:padding="3dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:background="#bdfcf6fc"
+        android:layout_alignLeft="@+id/graduation_tv"
+        android:layout_alignStart="@+id/graduation_tv"
+        android:layout_alignTop="@+id/lang_label"
+        android:layout_alignRight="@+id/graduation_tv"
+        android:layout_alignEnd="@+id/graduation_tv" />
+
+
+    <!-- Skills -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  Skills  : "
+        android:id="@+id/skills_label"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:textColor="#ffffffff"
+        android:background="#9f08479d"
+        android:padding="2dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/lang_tv"
+        android:layout_alignLeft="@+id/lang_label"
+        android:layout_alignStart="@+id/lang_label"
+        android:layout_alignRight="@+id/lang_label"
+        android:layout_alignEnd="@+id/lang_label" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/skills_tv"
+        android:clickable="false"
+        android:textColor="@color/dark_gray"
+        android:padding="3dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:background="#bdfcf6fc"
+        android:layout_alignTop="@+id/skills_label"
+        android:layout_alignLeft="@+id/lang_tv"
+        android:layout_alignStart="@+id/lang_tv"
+        android:layout_alignRight="@+id/lang_tv"
+        android:layout_alignEnd="@+id/lang_tv" />
+
+    <!-- Mobile -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  Mobile : "
+        android:id="@+id/mobile_label"
+        android:textStyle="bold"
+        android:textSize="12dp"
+        android:textColor="#ffffffff"
+        android:background="#9f08479d"
+        android:padding="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_alignRight="@+id/graduation_label"
+        android:layout_alignEnd="@+id/graduation_label"
+        android:layout_below="@+id/graduation_label"
+        android:layout_alignLeft="@+id/graduation_label"
+        android:layout_alignStart="@+id/graduation_label" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mobile_tv"
+        android:focusable="false"
+        android:inputType="number"
+        android:textColor="@color/dark_gray"
+        android:padding="3dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:background="#bdfcf6fc"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignBottom="@+id/mobile_label"
+        android:layout_alignLeft="@+id/graduation_tv"
+        android:layout_alignStart="@+id/graduation_tv"
+        android:layout_alignTop="@+id/mobile_label" />
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit"
+        android:text="Edit"
+        android:textSize="20dp"
+        android:padding="10dp"
+        android:layout_marginTop="46dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#c0c9bb84"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/skills_tv"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit"
+        android:id="@+id/linearLayout"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Cancel "
+            android:id="@+id/cancel"
+            android:textSize="17dp"
+            android:padding="2dp"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            android:layout_gravity="right"
+            android:background="#eef13148"
+            android:textColor="#ffffffff"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Update "
+            android:id="@+id/update"
+            android:textSize="17dp"
+            android:visibility="invisible"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            android:layout_gravity="left"
+            android:background="#c054c962"
+            android:textColor="#ffffffff"/>
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/waleed/AndroidStudioProjects/Moltaka1/app/src/main/res/layout/fragment_profile.xml -->

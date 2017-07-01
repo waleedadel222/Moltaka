@@ -1,0 +1,46 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context="com.university.moltaka.Fragments.FeedBackFragment"
+      >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/feed_back"
+        android:id="@+id/textView8"
+        android:padding="3dp"
+        android:textColor="#ffffffff"
+        android:background="#9f08479d"
+        android:textSize="13dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/feed_back"
+        android:singleLine="false"
+        android:padding="3dp"
+        android:gravity="top|left"
+        android:layout_margin="20dp"
+        android:background="#c0c9c5c6" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/send"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:background="#c05fc978" />
+
+</LinearLayout>
+<!-- From: file:/C:/Users/waleed/AndroidStudioProjects/Moltaka1/app/src/main/res/layout/fragment_feed_back.xml -->

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+        android:delay="100%"
+        android:animationOrder="reverse"
+        android:animation="@anim/slide_right" />
+<!-- From: file:/C:/Users/waleed/AndroidStudioProjects/Moltaka1/app/src/main/res/anim/layout_bottom_to_top_slide.xml -->

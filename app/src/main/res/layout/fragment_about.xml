@@ -1,0 +1,192 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/background"
+    android:fillViewport="false">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/see"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="22dp"
+        android:padding="5dp"
+        android:textColor="#ff9f0010" />
+
+
+    <!--President-->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/president"
+        android:padding="3dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="15dp"
+        android:maxHeight="120dp"
+        android:background="#ff5e7761" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <!-- name-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/president"
+            android:layout_gravity="right"
+            android:id="@+id/textView2"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:padding="2dp"
+            android:layout_marginRight="5dp"
+            android:textColor="#ff1b4027" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pre_name"
+            android:id="@+id/textView1"
+            android:layout_gravity="right"
+            android:textSize="14dp"
+            android:padding="2dp"
+            />
+
+    </LinearLayout>
+
+    <!-- job -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pre_job"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/textView3"
+        android:textSize="13dp"
+        android:padding="2dp"
+        android:layout_margin="2dp"
+        android:textColor="#c05b0014" />
+    <!--End President-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="8dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/head"
+        android:id="@+id/textView10"
+        android:layout_gravity="right"
+        android:textStyle="bold"
+        android:textSize="14dp"
+        android:padding="2dp"
+        android:layout_marginRight="5dp"
+        android:textColor="#ff1b4027"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pre_name"
+        android:id="@+id/textView11"
+        android:layout_gravity="right"
+        android:textSize="14dp"
+        android:padding="2dp"/>
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/head_job"
+        android:id="@+id/textView12"
+        android:textSize="14dp"
+        android:padding="2dp"
+        android:textColor="#c05b0014"
+        android:layout_margin="3dp"
+        android:layout_gravity="center_horizontal" />
+
+        <!-- Team -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/team"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/textView14"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:paddingTop="5dp"
+        android:paddingBottom="2dp"
+        android:layout_marginTop="5dp"
+        android:textColor="#ff9f0010" />
+
+
+    <!-- wasla -->
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dr"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/dr_shahenda"
+        android:textSize="15dp"
+        android:padding="2dp"
+        android:textColor="#c0123d1d"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/waleed"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/waleed"
+        android:textSize="15dp"
+        android:padding="2dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mai"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/mai"
+        android:textSize="15dp"
+        android:padding="2dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mohamed"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/mohamed"
+        android:textSize="15dp"
+        android:padding="2dp" />
+
+     <TextView
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+    android:text="@string/hend"
+    android:layout_gravity="center_horizontal"
+    android:id="@+id/hend"
+    android:textSize="15dp"
+    android:padding="2dp" />
+
+</LinearLayout>
+    </ScrollView>

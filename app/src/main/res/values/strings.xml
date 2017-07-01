@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Molata</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="title_activity_date_form">DateFormActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_logout">LogoutActivity</string>
+
+
+    <string name="id">الرقم القومى</string>
+    <string name="pass">رقم شهادة التخرج</string>
+    <string name="login">تسجيل الدخول </string>
+    <string name="new_user">New User</string>
+
+    <string name="feed_back">Write The Company Name And job Name ,\nThen Write Your FeedBack</string>
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Profile</item>
+        <item >Jobs Offers</item>
+        <item >Feed Back</item>
+        <item >Help</item>
+        <item>About</item>
+        <item >Logout</item>
+     </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/profile</item>
+        <item>@drawable/job</item>
+        <item>@drawable/feed_back</item>
+        <item>@drawable/help</item>
+        <item>@drawable/about</item>
+        <item>@drawable/logout</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <string name="see"> تم إنجاز هذا العمل برعاية</string>
+    <string name="pre_name"> السيد الاستاذ  الدكتور :</string>
+    <string name="president"> محمد حسن القناوى</string>
+    <string name="pre_job"> رئيس  جامعة المنصورة </string>
+
+    <string name="head">محمد السعيد </string>
+     <string name="head_job">مدير مركز التقنية </string>
+    <string name="team"> فريق العمل :  </string>
+    <string name="dr"> د/ شاهندة صلاح الدين سرحان </string>
+    <string name="waleed"> م/ وليد عادل الرفاعي </string>
+    <string name="mohamed"> م/محمد عادل العفيفي </string>
+    <string name="mai">م/ مي محمد حجازي </string>
+    <string name="hend"> م/هند سمير</string>
+
+
+</resources>
